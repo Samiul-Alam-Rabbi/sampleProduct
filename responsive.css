@@ -1,0 +1,27 @@
+@media screen and (max-width: 991px) {
+    .navbar-nav{
+        background: #fff;
+        display: block;
+        width: 100%;
+        padding: 15px;
+        height: auto;
+        position: absolute;
+    }
+    .header_text_top {
+        display: none;
+    }
+
+    .blog .col-xl-4:nth-of-type(1){
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+    .blog .col-xl-4:nth-of-type(2){
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin: 15px 0;
+    }
+    .blog .col-xl-4:nth-of-type(3){
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+    }
+}
